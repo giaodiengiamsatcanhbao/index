@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/giao-dien-giam-sat/static/css/main.435e1bf2.chunk.css",
+    "main.js": "/giao-dien-giam-sat/static/js/main.6d84f49c.chunk.js",
+    "main.js.map": "/giao-dien-giam-sat/static/js/main.6d84f49c.chunk.js.map",
+    "runtime-main.js": "/giao-dien-giam-sat/static/js/runtime-main.c49e47dd.js",
+    "runtime-main.js.map": "/giao-dien-giam-sat/static/js/runtime-main.c49e47dd.js.map",
+    "static/js/2.f19a6b4a.chunk.js": "/giao-dien-giam-sat/static/js/2.f19a6b4a.chunk.js",
+    "static/js/2.f19a6b4a.chunk.js.map": "/giao-dien-giam-sat/static/js/2.f19a6b4a.chunk.js.map",
+    "index.html": "/giao-dien-giam-sat/index.html",
+    "static/css/main.435e1bf2.chunk.css.map": "/giao-dien-giam-sat/static/css/main.435e1bf2.chunk.css.map",
+    "static/js/2.f19a6b4a.chunk.js.LICENSE.txt": "/giao-dien-giam-sat/static/js/2.f19a6b4a.chunk.js.LICENSE.txt",
+    "static/media/bg-home-active.9013d49b.jpeg": "/giao-dien-giam-sat/static/media/bg-home-active.9013d49b.jpeg",
+    "static/media/bg-home.456e45e2.jpeg": "/giao-dien-giam-sat/static/media/bg-home.456e45e2.jpeg",
+    "static/media/bg_login.a582db58.jpeg": "/giao-dien-giam-sat/static/media/bg_login.a582db58.jpeg",
+    "static/media/warning.65220346.jpeg": "/giao-dien-giam-sat/static/media/warning.65220346.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c49e47dd.js",
+    "static/js/2.f19a6b4a.chunk.js",
+    "static/css/main.435e1bf2.chunk.css",
+    "static/js/main.6d84f49c.chunk.js"
+  ]
+}

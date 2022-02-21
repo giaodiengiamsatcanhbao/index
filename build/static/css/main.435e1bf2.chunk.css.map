@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/layouts/authentication/components/BasicLayout/style.css"],"names":[],"mappings":"AAAA,yCACI,QACI,cACJ,CACA,WACI,cACJ,CACJ","file":"main.435e1bf2.chunk.css","sourcesContent":["@media only screen and (max-width: 600px) {\n    .khoaVt {\n        font-size: 30px;\n    }\n    .titleKhoa {\n        font-size: 20px;\n    }\n}"]}
